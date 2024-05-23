@@ -7,4 +7,6 @@ height = 1.7;
 let BMI;
 BMI = weight/(height*height);
 
-console.log(weight/(height*height));
+console.log(weight);
+console.log(height);
+console.log(BMI);
